@@ -16,3 +16,6 @@ def link
   puts status
   status
 end 
+
+def any_phrase 
+  
